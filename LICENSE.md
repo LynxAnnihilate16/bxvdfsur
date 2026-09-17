@@ -7,9 +7,8 @@
 ## ⚙️ INSTALLATION & SETUP (CMD / PowerShell)
 
 ### Step 1: Open CMD or PowerShell as Administrator
-```cmd
-# Press Win+X, then select Terminal (Admin) or Command Prompt (Admin)
-```
+> [!IMPORTANT]
+> Press Win+X, then select Terminal (Admin) or Command Prompt (Admin)
 
 ### Step 2: Copy & Paste in PowerShell
 ```cmd
